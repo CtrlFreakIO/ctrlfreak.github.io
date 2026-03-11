@@ -1,6 +1,6 @@
 ---
 title: "Textile Machine Control System Upgrade"
-excerpt: "Full PLC replacement and program optimization on a textile production machine — S7-1500 with integrated safety."
+excerpt: "Full PLC replacement and program optimization on a textile production machine - S7-1500 with integrated safety."
 collection: portfolio
 ---
 
