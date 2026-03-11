@@ -10,7 +10,7 @@ redirect_from:
 # About Me
 
 I am an automation engineer and researcher who enjoys solving problems that sit at the 
-boundary of disciplines — where hardware meets software, and where engineering practice 
+boundary of disciplines - where hardware meets software, and where engineering practice 
 meets formal methods. I work at Poznań University of Technology, but my roots are firmly 
 in industry.
 
@@ -18,12 +18,12 @@ in industry.
 
 ## Engineering Experience
 
-With over 8 years of hands-on experience, I have been involved in industrial projects 
+With over 10 years of hands-on experience, I have been involved in industrial projects 
 ranging from single machines to complete production lines. My work spans the full 
 engineering stack:
 
 **Hardware & Control Systems**
-From large-scale hydraulic presses to AGV systems and process installations — I design, 
+From large-scale hydraulic presses to AGV systems and process installations - I design, 
 program, and commission control systems using Siemens (TIA Portal, Step 7) and Rockwell 
 (Studio5000) platforms, including safety controllers.
 
@@ -35,7 +35,7 @@ for both new machines and modernizations.
 **IT/OT Integration**
 Beyond the PLC layer, I connect operational technology with information systems. I develop 
 tools that extract data from PLC controllers and route it toward storage and server-side 
-processing — bridging the gap between the shop floor and the data layer. I also work with 
+processing - bridging the gap between the shop floor and the data layer. I also work with 
 SQL-based data migration between industrial servers.
 
 **Visualization & SCADA**
@@ -90,5 +90,5 @@ role of artificial intelligence in machine safety systems.
 ## Teaching
 
 At Poznań University of Technology I conduct laboratory classes in industrial automation, 
-programmable logic controllers, and digital technology — in both full-time and part-time 
+programmable logic controllers, and digital technology - in both full-time and part-time 
 modes.
