@@ -8,7 +8,7 @@ author_profile: true
 I conduct laboratory classes at the **Institute of Robotics and Machine Intelligence**, 
 Poznań University of Technology, within the Department of Control and Industrial 
 Electronics. Classes are delivered in both full-time and part-time modes, for students 
-of **Automatic Control and Robotics**.
+of **Automatics and Robotics**.
 
 Classes are delivered in English and Polish for full-time and part-time students, with selected 
 exercises available in English for international students.
@@ -46,7 +46,7 @@ industrial automation scenarios.
 - Basic logic functions and program structure (LAD and SCL languages)
 - Start-Stop circuits, edge detection, RS/SR flip-flops
 - Timer and counter blocks (TON, TOF, TONR, TP, CTU, CTD, CTUD)
-- Sequential control programming — conveyor automation with manual and automatic modes
+- Sequential control programming - conveyor automation with manual and automatic modes
 - Alarm handling and emergency stop function implementation
 - HMI panel configuration and visualization design (KTP600, TIA Portal Wizard)
 - PLC-to-PLC Ethernet communication using PUT/GET blocks
