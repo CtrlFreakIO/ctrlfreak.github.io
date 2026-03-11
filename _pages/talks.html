@@ -6,3 +6,7 @@ author_profile: true
 ---
 
 Talks and presentations will appear here as they become available.
+
+{% for post in site.talks reversed %}
+  {% include archive-single-talk.html %}
+{% endfor %}
